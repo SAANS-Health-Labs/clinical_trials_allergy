@@ -1,0 +1,73 @@
+sentence_id,criteria,ent_text,ent_type
+1,seasonal allergies with significant effect on contact lens wear,seasonal allergies,ALLERGY
+2,"patients with diabetic retinopathy, collagen, vascular, diagnosed autoimmune disease (e.g., lupus, rheumatoid arthritis, fibromylagia), immunodeficiency (e.g., hiv), connective tissue disease, or clinically significant atopic syndrome such as allergies or asthma.",diabetic retinopathy,PROBLEM
+2,"patients with diabetic retinopathy, collagen, vascular, diagnosed autoimmune disease (e.g., lupus, rheumatoid arthritis, fibromylagia), immunodeficiency (e.g., hiv), connective tissue disease, or clinically significant atopic syndrome such as allergies or asthma.",diagnosed autoimmune disease,PROBLEM
+2,"patients with diabetic retinopathy, collagen, vascular, diagnosed autoimmune disease (e.g., lupus, rheumatoid arthritis, fibromylagia), immunodeficiency (e.g., hiv), connective tissue disease, or clinically significant atopic syndrome such as allergies or asthma.",lupus,PROBLEM
+2,"patients with diabetic retinopathy, collagen, vascular, diagnosed autoimmune disease (e.g., lupus, rheumatoid arthritis, fibromylagia), immunodeficiency (e.g., hiv), connective tissue disease, or clinically significant atopic syndrome such as allergies or asthma.",rheumatoid arthritis,PROBLEM
+2,"patients with diabetic retinopathy, collagen, vascular, diagnosed autoimmune disease (e.g., lupus, rheumatoid arthritis, fibromylagia), immunodeficiency (e.g., hiv), connective tissue disease, or clinically significant atopic syndrome such as allergies or asthma.",fibromylagia),PROBLEM
+2,"patients with diabetic retinopathy, collagen, vascular, diagnosed autoimmune disease (e.g., lupus, rheumatoid arthritis, fibromylagia), immunodeficiency (e.g., hiv), connective tissue disease, or clinically significant atopic syndrome such as allergies or asthma.",immunodeficiency,PROBLEM
+2,"patients with diabetic retinopathy, collagen, vascular, diagnosed autoimmune disease (e.g., lupus, rheumatoid arthritis, fibromylagia), immunodeficiency (e.g., hiv), connective tissue disease, or clinically significant atopic syndrome such as allergies or asthma.",hiv),PROBLEM
+2,"patients with diabetic retinopathy, collagen, vascular, diagnosed autoimmune disease (e.g., lupus, rheumatoid arthritis, fibromylagia), immunodeficiency (e.g., hiv), connective tissue disease, or clinically significant atopic syndrome such as allergies or asthma.",connective tissue disease,PROBLEM
+2,"patients with diabetic retinopathy, collagen, vascular, diagnosed autoimmune disease (e.g., lupus, rheumatoid arthritis, fibromylagia), immunodeficiency (e.g., hiv), connective tissue disease, or clinically significant atopic syndrome such as allergies or asthma.",clinically significant atopic syndrome,PROBLEM
+2,"patients with diabetic retinopathy, collagen, vascular, diagnosed autoimmune disease (e.g., lupus, rheumatoid arthritis, fibromylagia), immunodeficiency (e.g., hiv), connective tissue disease, or clinically significant atopic syndrome such as allergies or asthma.",asthma,PROBLEM
+3,"has a history of relevant drug allergies, food allergies, or both (i.e., allergy to oxycodone, allergy to related drugs, or any significant food allergy that could interfere with the study).",relevant drug allergies,ALLERGY
+3,"has a history of relevant drug allergies, food allergies, or both (i.e., allergy to oxycodone, allergy to related drugs, or any significant food allergy that could interfere with the study).",food allergies,ALLERGY
+3,"has a history of relevant drug allergies, food allergies, or both (i.e., allergy to oxycodone, allergy to related drugs, or any significant food allergy that could interfere with the study).",oxycodone,ALLERGY
+3,"has a history of relevant drug allergies, food allergies, or both (i.e., allergy to oxycodone, allergy to related drugs, or any significant food allergy that could interfere with the study).",related drugs,ALLERGY
+3,"has a history of relevant drug allergies, food allergies, or both (i.e., allergy to oxycodone, allergy to related drugs, or any significant food allergy that could interfere with the study).",any significant food allergy,ALLERGY
+3,"has a history of relevant drug allergies, food allergies, or both (i.e., allergy to oxycodone, allergy to related drugs, or any significant food allergy that could interfere with the study).",the study,ALLERGY
+4,"babies who have a skin condition, allergies, or chest deformities making ecg on the chest difficult or impossible.",a skin condition,PROBLEM
+4,"babies who have a skin condition, allergies, or chest deformities making ecg on the chest difficult or impossible.",chest deformities,PROBLEM
+4,"babies who have a skin condition, allergies, or chest deformities making ecg on the chest difficult or impossible.",ecg on the chest,TEST
+5,gadolinium allergy,gadolinium allergy,ALLERGY
+6,have current or a history of asthma or severe drug allergies or pollen allergy.,asthma,PROBLEM
+6,have current or a history of asthma or severe drug allergies or pollen allergy.,severe drug allergies,ALLERGY
+6,have current or a history of asthma or severe drug allergies or pollen allergy.,pollen allergy,ALLERGY
+7,subjects who are using ophthalmic medication(s) other than artificial tears for treatment of any ocular pathology excluding ocular allergy.,ophthalmic medication,TREATMENT
+7,subjects who are using ophthalmic medication(s) other than artificial tears for treatment of any ocular pathology excluding ocular allergy.,artificial tears,TREATMENT
+7,subjects who are using ophthalmic medication(s) other than artificial tears for treatment of any ocular pathology excluding ocular allergy.,treatment,TREATMENT
+7,subjects who are using ophthalmic medication(s) other than artificial tears for treatment of any ocular pathology excluding ocular allergy.,any ocular pathology,PROBLEM
+7,subjects who are using ophthalmic medication(s) other than artificial tears for treatment of any ocular pathology excluding ocular allergy.,ocular allergy,ALLERGY
+8,known allergy or preexisting skin disease which prohibits use of menthol,preexisting skin disease,PROBLEM
+8,known allergy or preexisting skin disease which prohibits use of menthol,menthol,TREATMENT
+9,patients known to have iodide allergy or icg allergy,iodide allergy,ALLERGY
+9,patients known to have iodide allergy or icg allergy,icg allergy,ALLERGY
+10,drug allergy/hypersensitivity,drug allergy,ALLERGY
+11,known hypersensitivity or allergies to sensor gel or adhesive; skin lesions that prohibit adequate sensor placement,sensor gel,ALLERGY
+11,known hypersensitivity or allergies to sensor gel or adhesive; skin lesions that prohibit adequate sensor placement,adhesive,ALLERGY
+11,known hypersensitivity or allergies to sensor gel or adhesive; skin lesions that prohibit adequate sensor placement,skin lesions,ALLERGY
+11,known hypersensitivity or allergies to sensor gel or adhesive; skin lesions that prohibit adequate sensor placement,adequate sensor placement,ALLERGY
+12,patients with known allergies to chlorhexidine gluconate or any other ingredients in the product,chlorhexidine gluconate,ALLERGY
+13,have allergy to ropivacaine or hydromorphone,ropivacaine,ALLERGY
+13,have allergy to ropivacaine or hydromorphone,hydromorphone,ALLERGY
+14,known allergy to iodinated contrast,iodinated contrast,ALLERGY
+15,known allergy or serious adverse reaction to tolcapone,tolcapone,ALLERGY
+16,known allergy to dihydropyridines or clevidipine,dihydropyridines,ALLERGY
+16,known allergy to dihydropyridines or clevidipine,clevidipine,ALLERGY
+17,"known allergy to soy products, beans, eggs or egg products22. patients with defective lipid metabolism or pathologic hyperlipidemia or lipid nephrosis",soy products,ALLERGY
+17,"known allergy to soy products, beans, eggs or egg products22. patients with defective lipid metabolism or pathologic hyperlipidemia or lipid nephrosis",egg products22,ALLERGY
+17,"known allergy to soy products, beans, eggs or egg products22. patients with defective lipid metabolism or pathologic hyperlipidemia or lipid nephrosis",defective lipid metabolism,ALLERGY
+17,"known allergy to soy products, beans, eggs or egg products22. patients with defective lipid metabolism or pathologic hyperlipidemia or lipid nephrosis",pathologic hyperlipidemia,ALLERGY
+17,"known allergy to soy products, beans, eggs or egg products22. patients with defective lipid metabolism or pathologic hyperlipidemia or lipid nephrosis",lipid nephrosis,ALLERGY
+19,history of allergy to heparin or heparin-induced thrombocytopenia,heparin,ALLERGY
+19,history of allergy to heparin or heparin-induced thrombocytopenia,heparin-induced thrombocytopenia,ALLERGY
+20,patients with a known allergy to mr contrast agents,mr contrast agents,ALLERGY
+21,"contraindication to therapy with any one of the proposed agents (e.g., history of allergy to rabbit serum in atg)",therapy,ALLERGY
+21,"contraindication to therapy with any one of the proposed agents (e.g., history of allergy to rabbit serum in atg)",the proposed agents,ALLERGY
+21,"contraindication to therapy with any one of the proposed agents (e.g., history of allergy to rabbit serum in atg)",rabbit serum in atg,ALLERGY
+22,known allergy or hypersensitivity to any of the test materials or contraindication to test materials,the test materials,ALLERGY
+22,known allergy or hypersensitivity to any of the test materials or contraindication to test materials,test materials,ALLERGY
+24,known hypersensitivity/allergy to the investigational stent system or protocol related therapies.,the investigational stent system,ALLERGY
+24,known hypersensitivity/allergy to the investigational stent system or protocol related therapies.,protocol related therapies,ALLERGY
+25,subjects who have a known allergy to sumatriptan or naprosyn.,sumatriptan,ALLERGY
+25,subjects who have a known allergy to sumatriptan or naprosyn.,naprosyn,ALLERGY
+26,known hypersensitivity to lorcaserin,lorcaserin,ALLERGY
+27,"known hypersensitivity to the components of mm-310, or docetaxel",mm,ALLERGY
+27,"known hypersensitivity to the components of mm-310, or docetaxel",docetaxel,ALLERGY
+28,"individuals with a known hypersensitivity to aprotinin or any other constituents of tisseel vh s/dtm i.e. fibrinogen (human), thrombin (human) and calcium chloride, bovine and porcine products.",a known hypersensitivity,ALLERGY
+28,"individuals with a known hypersensitivity to aprotinin or any other constituents of tisseel vh s/dtm i.e. fibrinogen (human), thrombin (human) and calcium chloride, bovine and porcine products.",aprotinin,ALLERGY
+28,"individuals with a known hypersensitivity to aprotinin or any other constituents of tisseel vh s/dtm i.e. fibrinogen (human), thrombin (human) and calcium chloride, bovine and porcine products.",tisseel vh,ALLERGY
+28,"individuals with a known hypersensitivity to aprotinin or any other constituents of tisseel vh s/dtm i.e. fibrinogen (human), thrombin (human) and calcium chloride, bovine and porcine products.",fibrinogen (human),ALLERGY
+28,"individuals with a known hypersensitivity to aprotinin or any other constituents of tisseel vh s/dtm i.e. fibrinogen (human), thrombin (human) and calcium chloride, bovine and porcine products.",thrombin (human),ALLERGY
+28,"individuals with a known hypersensitivity to aprotinin or any other constituents of tisseel vh s/dtm i.e. fibrinogen (human), thrombin (human) and calcium chloride, bovine and porcine products.",calcium chloride,ALLERGY
+28,"individuals with a known hypersensitivity to aprotinin or any other constituents of tisseel vh s/dtm i.e. fibrinogen (human), thrombin (human) and calcium chloride, bovine and porcine products.",bovine and porcine products,ALLERGY
